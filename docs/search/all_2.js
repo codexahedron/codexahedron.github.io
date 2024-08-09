@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['base_80',['base',['../structgdt__ptr.html#a2e013c2c6e8010c8116c6f56813df57b',1,'gdt_ptr::base()'],['../structidt__ptr.html#a2e013c2c6e8010c8116c6f56813df57b',1,'idt_ptr::base()'],['../gdt_8c.html#a2e013c2c6e8010c8116c6f56813df57b',1,'base():&#160;gdt.c'],['../idt_8c.html#a2e013c2c6e8010c8116c6f56813df57b',1,'base():&#160;idt.c']]],
+  ['base_5fhi_81',['base_hi',['../structidt__entry.html#ab2a07555c8144d49d6df094dbbadca80',1,'idt_entry::base_hi()'],['../idt_8c.html#ab2a07555c8144d49d6df094dbbadca80',1,'base_hi():&#160;idt.c']]],
+  ['base_5fhigh_82',['base_high',['../structgdt__entry.html#a2ece4ce625dcee29c9a9e6952055ddd5',1,'gdt_entry::base_high()'],['../gdt_8c.html#a2ece4ce625dcee29c9a9e6952055ddd5',1,'base_high():&#160;gdt.c']]],
+  ['base_5flo_83',['base_lo',['../structidt__entry.html#a70dcca0296eee0f9200d5192587c2979',1,'idt_entry::base_lo()'],['../idt_8c.html#a70dcca0296eee0f9200d5192587c2979',1,'base_lo():&#160;idt.c']]],
+  ['base_5flow_84',['base_low',['../structgdt__entry.html#ae4b82d5bd06e0cad3df76bcabedfe194',1,'gdt_entry::base_low()'],['../gdt_8c.html#ae4b82d5bd06e0cad3df76bcabedfe194',1,'base_low():&#160;gdt.c']]],
+  ['base_5fmiddle_85',['base_middle',['../structgdt__entry.html#a11134ae8e899bd8f22b3d59dd5b86fae',1,'gdt_entry::base_middle()'],['../gdt_8c.html#a11134ae8e899bd8f22b3d59dd5b86fae',1,'base_middle():&#160;gdt.c']]],
+  ['bigint_86',['bigint',['../structbigint.html',1,'']]],
+  ['bigint_2ec_87',['bigint.c',['../bigint_8c.html',1,'']]],
+  ['bigint_2eh_88',['bigint.h',['../bigint_8h.html',1,'']]],
+  ['bigint_5ft_89',['bigint_t',['../bigint_8h.html#ad8a7aa76fdc3c54484cdf2708aaa37ee',1,'bigint.h']]],
+  ['bits_90',['bits',['../bigint_8c.html#ae3160a310a8e00b4f2051c6628f95d4e',1,'bits(long long num):&#160;bigint.c'],['../bigint_8h.html#ae3160a310a8e00b4f2051c6628f95d4e',1,'bits(long long num):&#160;bigint.c']]],
+  ['blank_91',['blank',['../shell_8h.html#a16d1e2a9af2c9942e5b9c70513e82076',1,'blank():&#160;shell.h'],['../kshell_8c.html#a16d1e2a9af2c9942e5b9c70513e82076',1,'blank():&#160;kshell.c']]],
+  ['blue_92',['blue',['../structmultiboot__color.html#ae918593f219821079de921ab02aeb42d',1,'multiboot_color']]],
+  ['bnz_93',['BNZ',['../c4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7adce5d34062232a22ab6aea734185ffcd',1,'c4.c']]],
+  ['bool_94',['bool',['../modules_8h.html#a1062901a7428fdd9c7f180f5e01ea056',1,'modules.h']]],
+  ['boot_5fdevice_95',['boot_device',['../structmultiboot__info.html#a758aac0c089e4583354024759c9ad59d',1,'multiboot_info::boot_device()'],['../structmultiboot.html#a2aa050a4a5f45f2300cbbbee56cc8410',1,'multiboot::boot_device()'],['../unmultiboot_8h.html#a2aa050a4a5f45f2300cbbbee56cc8410',1,'boot_device():&#160;unmultiboot.h']]],
+  ['boot_5floader_5fname_96',['boot_loader_name',['../structmultiboot__info.html#a60505e4e2cab6b85cfb236bd173637d0',1,'multiboot_info::boot_loader_name()'],['../structmultiboot.html#aa91e289c602df629731c300affdab2f4',1,'multiboot::boot_loader_name()'],['../unmultiboot_8h.html#aa91e289c602df629731c300affdab2f4',1,'boot_loader_name():&#160;unmultiboot.h']]],
+  ['brak_97',['Brak',['../c4_8c.html#a06fc87d81c62e9abb8790b6e5713c55ba28989ed9b4c5145651ace124e3ff4d7b',1,'c4.c']]],
+  ['break_98',['Break',['../c4_8c.html#a06fc87d81c62e9abb8790b6e5713c55ba54957cf47b2c20cda66ae848d2b3aacb',1,'c4.c']]],
+  ['brk_99',['brk',['../c4_8c.html#a370b75e7d67be9c50eac44053ea1a22e',1,'c4.c']]],
+  ['bss_5fend_5faddr_100',['bss_end_addr',['../structmultiboot__header.html#a327be9d90ed2722b0e275817f92e5a14',1,'multiboot_header']]],
+  ['buffer_101',['buffer',['../keyboard_8h.html#aff2566f4c366b48d73479bef43ee4d2e',1,'buffer():&#160;keyboard.h'],['../keyboard_8c.html#aff2566f4c366b48d73479bef43ee4d2e',1,'buffer():&#160;keyboard.c']]],
+  ['bytes_102',['bytes',['../structfile__t.html#adcc78999fdbb41052741a6e30b16fab5',1,'file_t']]],
+  ['bz_103',['BZ',['../c4_8c.html#adf764cbdea00d65edcd07bb9953ad2b7a803878dd018e213f5bbf7bf7339526d2',1,'c4.c']]],
+  ['bzero_104',['bzero',['../memory_8c.html#a67e19ee40a41b07fb5d4b21c229afcd3',1,'memory.c']]]
+];
